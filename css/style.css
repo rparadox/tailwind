@@ -2748,6 +2748,10 @@ html {
   margin-top: 0.75rem;
 }
 
+.flex {
+  display: flex;
+}
+
 .hidden {
   display: none;
 }
@@ -2778,6 +2782,10 @@ html {
 
 .justify-end {
   justify-content: flex-end;
+}
+
+.gap-5 {
+  gap: 1.25rem;
 }
 
 .rounded-box {
